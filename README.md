@@ -122,4 +122,4 @@ Além de aprofundar minha experiência técnica com SQL e Power BI, o projeto me
 
 ## ✍️ Considerações Finais
 
-Este repositório serve como registro técnico da minha experiência prática com análise de dados em ambientes corporativos reais. Mesmo sem expor os dados confidenciais, ele demonstra minha capacidade de aplicar ferramentas, resolver problemas e gerar valor com dados.
+Este repositório serve como registro técnico da minha experiência prática com análise de dados em ambientes corporativos reais. Embora os dados utilizados sejam confidenciais e não possam ser exibidos, os relatos aqui apresentados evidenciam minha atuação na resolução de problemas, na geração de insights e na aplicação eficaz de ferramentas analíticas para agregar valor aos projetos.
