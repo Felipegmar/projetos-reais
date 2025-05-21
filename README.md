@@ -9,8 +9,8 @@ Fiquem à vontade para conhecer algumas dessas histórias 😄
 ## 🧠 Visão Geral dos Projetos
 
 1. **[Dashboard de Rotas e Informações do Leiturista]** — [Medição e Receita]
-2. **[Projeto 2 — Dashboard de Situação de Consumo]** — [Medição e Receita]
-3. **[Projeto 3 — Marketing Analytics para Data Mundo]** — [Marketing]
+2. **[Dashboard de Situação de Consumo]** — [Medição e Receita]
+3. **[Marketing Analytics para Data Mundo]** — [Marketing]
 
 ---
 
