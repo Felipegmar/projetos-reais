@@ -10,8 +10,8 @@ Fiquem à vontade para conhecer algumas dessas histórias 😄
 
 1. **[Dashboard de Rotas e Informações do Leiturista
 ]** — [Medição e Receita]
-2. **[Nome do Projeto 2]** — [Área ou Tema]
-3. **[Nome do Projeto 3]** — [Área ou Tema]
+2. **[ Projeto 2 — Dashboard de Situação de Consumo]** — [Medição e Receita]
+3. **[Projeto 3 — Marketing Analytics para Data Mundo]** — [Marketing]
 
 ---
 
